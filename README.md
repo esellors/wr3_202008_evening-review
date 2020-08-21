@@ -1,2 +1,6 @@
-# wr3_202008_evening-review
-Created with CodeSandbox
+## WR3 Evening Review code
+
+-Accessing Redux values
+-React Lifecycle and methods
+
+Also, see https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
